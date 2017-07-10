@@ -11,6 +11,10 @@
     git clone https://github.com/..../ezpanel.git
     ```
 * Accedemos a la carpeta que se acaba de crear: cd ezpanel
+* Instalamos rubyonrails si no lo está ya:
+     ````shell
+    gem install rails
+    ````
 * Ejecutamos el comando:
     ````shell
     bundle install
@@ -35,5 +39,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
